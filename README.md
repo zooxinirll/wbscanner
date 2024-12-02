@@ -46,7 +46,11 @@
     pip install -r requirements.txt
     ```
 
+## Run
 
+  ```bash
+    python wbscanner.py
+  ```
 
 ## Usage
 
