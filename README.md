@@ -1,4 +1,6 @@
 # wbscanner
+![wbscanner](https://github.com/user-attachments/assets/9d7fc3ab-3152-46c4-a1d1-a2458a870bc6)
+
 
 **WBScanner** is a Python-based security scanner designed for assessing various web application vulnerabilities. It aims to identify potential security flaws such as Host Header Injection, CORS misconfiguration, Clickjacking vulnerabilities, HTTP Request Smuggling, and unsafe HTTP methods in web applications. The scanner is designed to be easy to use, with support for scanning individual URLs or reading from an input file containing multiple URLs. It uses a range of techniques to test these vulnerabilities and reports the results with color-coded output for easier interpretation.
 
