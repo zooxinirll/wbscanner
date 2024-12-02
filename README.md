@@ -54,7 +54,7 @@
 
 *Scanning Multiple URLs from a File :* To scan a list of URLs stored in a text file, provide the file name when prompted
 
-*The input file should contain one URL per line, like so:**
+*The input file should contain one URL per line, like so:*
 
   ```bash
     http://example.com
