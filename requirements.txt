@@ -1,0 +1,4 @@
+requests
+alive-progress
+termcolor
+pyfiglet
