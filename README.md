@@ -50,20 +50,16 @@
 
 ## Usage
 
-*Scanning a Single URL*
+*Scanning a Single URL :* To scan a single target URL, run the script and provide the URL when prompted
 
-To scan a single target URL, run the script and provide the URL when prompted
-
-*Scanning Multiple URLs from a File*
-
-To scan a list of URLs stored in a text file, provide the file name when prompted
+*Scanning Multiple URLs from a File :* To scan a list of URLs stored in a text file, provide the file name when prompted
 
 *The input file should contain one URL per line, like so:**
 
-    ```bash
+  ```bash
     http://example.com
     https://example2.com
-    ```
+  ```
      
 
 
